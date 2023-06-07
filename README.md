@@ -1,1 +1,3 @@
-This machine learning model is made in jupyter. This model predicts the number of medals a country will win in the coming olympics based on the data of the medals won in the previous olympics. This model uses linear regression from the scikit-learn module. The mean absolute error of this model is around 3.298. The error shows a trend of reducing when the number of athletes sent from a country is high. The dataset used in this model was obtained from kaggle.
+Utilized Linear regression from Scikit-learn module to predict the number of medals a country will win in the upcoming Olympics based on data from previous Olympics (Accuracy score: 0.5654).
+Performed data visualization using Scatter plots and Histograms from the Seaborn module.
+The dataset used in this model was obtained from kaggle.
